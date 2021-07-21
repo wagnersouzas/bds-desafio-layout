@@ -1,0 +1,21 @@
+.product-card {
+  margin-bottom: 20px;
+  padding: 15px 20px;
+}
+.card-top-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 38px;
+}
+.card-top-container p {
+  font-size: 14px;
+}
+.card-top-container img {
+  max-width: 220px;
+  width: 100%;
+}
+.btn-card {
+  width: 100%;
+}
